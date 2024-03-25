@@ -2,3 +2,4 @@ data/*
 bin/*
 *.deb
 dpkg/usr/bin/*
+/.vscode
